@@ -1,0 +1,33 @@
+*{
+    margin:0;
+   padding: 25px;
+    box-sizing: border-box; 
+}
+.header{
+    background-color: lightcoral;
+    color: red;
+    width: 600px;
+    display: flex;
+}
+ul{
+    background-color:white;
+    width:60vw;
+    padding: 10px;
+    list-style-type: none;
+    font-size: 25px;
+}
+.bi-person-circle{
+    color: gray;
+    font-size: 100px;  
+}
+div{
+    padding: 35px;
+}
+.c1{
+    font-size: 35px;
+}
+.c2{
+    font-size: 25px;
+    font-style: normal;
+
+}
